@@ -1,7 +1,5 @@
 ## Hi there 🍀
 
-<!--
-**ashleyzhiyin/ashleyzhiyin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # Zhiyin Zhang
 Zhiyin Zhang - profile
