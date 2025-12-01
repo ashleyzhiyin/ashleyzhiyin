@@ -25,8 +25,8 @@ Hi, I’m Zhiyin(Ashley) Zhang. I am a future asset analyst with quantitative in
 
 
 🔗 Let’s Connect
-📧 Email: zhiyinzh@upenn.edu
-💼 LinkedIn: [Zhiyin-Zhang](https://www.linkedin.com/in/zhiyin-zhang-3402412b9)
-📍 Location: Philadelphia · Singapore/HK willing to relocate
+- 📧 Email: zhiyinzh@upenn.edu
+- 💼 LinkedIn: [Zhiyin-Zhang](https://www.linkedin.com/in/zhiyin-zhang-3402412b9)
+- 📍 Location: Philadelphia · Singapore/HK willing to relocate
 
 
