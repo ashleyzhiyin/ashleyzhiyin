@@ -1,8 +1,7 @@
 ## Hi there 🍀
 
 
-# Zhiyin Zhang
-Zhiyin Zhang - profile
+## Zhiyin Zhang
 
 Hi, I’m Zhiyin(Ashley) Zhang. I am a future asset analyst with quantitative insights to support investment decisions.
 
