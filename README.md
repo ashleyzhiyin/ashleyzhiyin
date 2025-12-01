@@ -7,7 +7,7 @@ Zhiyin Zhang - profile
 Hi, I’m Zhiyin(Ashley) Zhang. I am a future asset analyst with quantitative insights to support investment decisions.
 
 🎓 Education
-- Social Policy in economic track | University ofPennsylvania  
+- Social Policy in Economic Track | University ofPennsylvania  
 - Computer Science | Northern Arizona University
 - Applied Linguistic | Wuhan University
  
